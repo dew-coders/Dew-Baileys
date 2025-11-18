@@ -426,26 +426,9 @@ if(usePairingCode && !sock.authState.creds.registered) {
   <p>Everything other than the modifications mentioned above remains the same as the original repository. You can check out the original repository at <a href="https://github.com/WhiskeySockets/Baileys" style="color: #60A5FA; text-decoration: none; font-weight: bold;">WhiskeySockets</a>.</p>
 </div>
 
+
+  <p style="font-style: italic; max-width: 600px; margin: 0 auto;">Powered BY Dew Coders - The Ultimate WhatsApp Web API Experience</p> 
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</div>
-
-<div align="center" style="margin-top: -40px;">
-  <div style="background: linear-gradient(90deg, #6366F1, #3B82F6, #2DD4BF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; font-weight: bold; margin-bottom: 10px;">
-    ⭐ STAR THIS REPOSITORY ⭐
-  </div>
-  
-  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-    <div style="background: rgba(6, 182, 212, 0.1); border-radius: 5px; padding: 8px 15px;">
-      <span style="font-size: 20px;">👨‍💻</span> <span>Developers</span>
-    </div>
-    <div style="background: rgba(16, 185, 129, 0.1); border-radius: 5px; padding: 8px 15px;">
-      <span style="font-size: 20px;">🤖</span> <span>Bot Creators</span>
-    </div>
-    <div style="background: rgba(245, 158, 11, 0.1); border-radius: 5px; padding: 8px 15px;">
-      <span style="font-size: 20px;">🚀</span> <span>Innovators</span>
-    </div>
-  </div>
-  
-  <p style="font-style: italic; max-width: 600px; margin: 0 auto;">Powered BY Dew Coders - The Ultimate WhatsApp Web API Experience</p> 
 </div>
