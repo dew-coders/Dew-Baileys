@@ -1,12 +1,12 @@
-# DEW-BAILEYS PRO
 <div align="center">
 
-  <img src="https://i.ibb.co/Wpnx2hhF/malvin-xd.jpg" width="350px">
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=DEW%20BAIYLES&animation=blinking" width="100%">
+</div>
   <br>
   
   <div style="background: linear-gradient(90deg, #6366F1, #3B82F6, #2DD4BF); padding: 8px; border-radius: 10px; margin: 15px 0;">
-    <span style="font-size: 18px; font-weight: bold; color: white;">🔥 Ultimate WhatsApp Web API Experience 🥵</span>
+    <span style="font-size: 18px; font-weight: bold; color: white;"><b>🔥Ultimate WhatsApp Web API<b></span>
   </div>
   
   ![TypeScript](https://img.shields.io/badge/-%F0%9F%94%B7%20TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
@@ -58,21 +58,21 @@
 ### 📂 In package.json:
 ```json
 "dependencies": {
-    "Malvin-Baileys": "*"
+    "dew-baileys": "*"
 }
 ```
 or option2
 ### 📂 In package.json:
 ```json
 "dependencies": {
-    "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys"
+    "@whiskeysockets/baileys": "github:dew-coders/Dew-Baileys"
 }
 ```
 
 
 ### ⚙️ Terminal Installation:
 ```bash
-npm install malvin-baileys
+npm install dew-baileys
 ```
 
 ### 🔌 Import:
@@ -81,22 +81,20 @@ npm install malvin-baileys
 
 ```typescript
 // ESM 
-import makeWASocket from 'Malvin-baileys'
+import makeWASocket from 'dew-baileys'
 ```
 </div>
 <div style="background: rgba(234, 179, 8, 0.1); border-radius: 5px; padding: 10px; flex: 1;">
 
 ```javascript
 // CommonJS
-const { default: makeWASocket } = require("Malvin-baileys")
+const { default: makeWASocket } = require("dew-baileys")
 ```
 </div>
 </div>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=MALVIN%20BAIYLES&animation=blinking" width="100%">
-</div>
+
 
 ## ✨ | FEATURE SHOWCASE
 
@@ -358,7 +356,7 @@ await sock.sendMessage(id, { text: "Hello! I'm your AI assistant.", ai: true })
 ```typescript
 if(usePairingCode && !sock.authState.creds.registered) {
     const phoneNumber = await question('Please enter your mobile phone number:\n')
-    const custom = "MRMALVIN" // must be 8 digits, can be letters or numbers
+    const custom = "DEWMDOFC" // must be 8 digits, can be letters or numbers
     const code = await sock.requestPairingCode(phoneNumber, custom)
     console.log(`Pairing code: ${code?.match(/.{1,4}/g)?.join('-') || code}`)
 }
@@ -381,7 +379,7 @@ if(usePairingCode && !sock.authState.creds.registered) {
     <h3>🚀 Step 1: Install</h3>
     <p>Add baileys-elite to your project using npm</p>
     <div style="background: rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-      <code>npm install Malvin-baileys</code>
+      <code>npm install dew-baileys</code>
     </div>
   </div>
   
@@ -389,7 +387,7 @@ if(usePairingCode && !sock.authState.creds.registered) {
     <h3>🔄 Step 2: Import</h3>
     <p>Import the library into your project</p>
     <div style="background: rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-      <code>import makeWASocket from 'Malvin-Baileys'</code>
+      <code>import makeWASocket from 'dew-baileys'</code>
     </div>
   </div>
   
@@ -414,7 +412,7 @@ if(usePairingCode && !sock.authState.creds.registered) {
 
 <div style="background: linear-gradient(135deg, rgba(239, 68, 68, 0.05), rgba(220, 38, 38, 0.05)); border-radius: 10px; padding: 20px; margin: 20px 0;">
   <h3>Found a bug? Have a suggestion?</h3>
-  <p>If you encounter any issues while using this repository, please feel free to open a <a href="https://github.com/XdKing2/Malvin-Baileys/issues" style="color: #60A5FA; text-decoration: none; font-weight: bold;">new issue</a>.</p>
+  <p>If you encounter any issues while using this repository, please feel free to open a <a href="https://github.com/dew-coders/Dew-Baileys/issues" style="color: #60A5FA; text-decoration: none; font-weight: bold;">new issue</a>.</p>
   
   <div style="display: flex; align-items: center; gap: 10px; margin-top: 15px; background: rgba(239, 68, 68, 0.1); padding: 10px; border-radius: 5px;">
     <span style="font-size: 24px;">👾</span>
@@ -449,5 +447,5 @@ if(usePairingCode && !sock.authState.creds.registered) {
     </div>
   </div>
   
-  <p style="font-style: italic; max-width: 600px; margin: 0 auto;">Powered BY Malvin-baileys - The Ultimate WhatsApp Web API Experience</p> 
+  <p style="font-style: italic; max-width: 600px; margin: 0 auto;">Powered BY Dew Coders - The Ultimate WhatsApp Web API Experience</p> 
 </div>
