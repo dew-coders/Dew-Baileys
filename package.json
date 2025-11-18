@@ -1,6 +1,6 @@
 {
   "name": "dew-baileys",
-  "version": "1.0.5",
+  "version": "3.0.3",
   "description": "WhatsApp Api By Dew Coders Team Sri Lanka",
   "keywords": [
     "whatsapp",
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S",
+  "homepage": "https://www.whatsapp.com/channel/0029Vb2bFCq0LKZGEl4xEe2G",
   "repository": {
-    "url": "git@github.com:XdKing2/Malvin-Baileys.git"
+    "url": "git@github.com:dew-coders/Dew-Baileys"
   },
   "license": "MIT",
-  "author": "MR MALVIN",
+  "author": "Hansa Dewmina",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
